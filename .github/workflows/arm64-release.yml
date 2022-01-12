@@ -7,6 +7,7 @@ on:
       - master
       - stable
       - rc/**
+      - all
     tags:
       - '**'
   workflow_dispatch:
